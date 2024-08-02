@@ -2,6 +2,6 @@ public struct MyApi {
     public init() {}
     
     public func printVersion() {
-        print("24.9.0") // alpha2
+        print("24.9.0") // rc1
     }
 }
